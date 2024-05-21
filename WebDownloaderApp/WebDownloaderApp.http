@@ -1,0 +1,6 @@
+@WebDownloaderApp_HostAddress = http://localhost:5212
+
+GET {{WebDownloaderApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
